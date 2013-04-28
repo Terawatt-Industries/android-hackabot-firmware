@@ -1,3 +1,4 @@
+/*
 Copyright 2013 Longevity Software LLC, d.b.a. Terawatt Industries
 
    Licensed under the Apache License, Version 2.0 (the "License");
@@ -15,6 +16,7 @@ Copyright 2013 Longevity Software LLC, d.b.a. Terawatt Industries
 Author:  Free Beachler
 
 TSL230 code is based on http://dronecolony.com/2008/11/13/arduino-and-the-taos-tsl230r-light-sensor-getting-started/
+*/
 
 //#define DEBUG_MODE
 #include "RunningAverage.h"
