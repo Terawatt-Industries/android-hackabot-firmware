@@ -7,10 +7,10 @@
 ## Uses distinct namespace. Jekyll settings should go at the root level.
 githubiverse:
     ## Metadata
-    title: "Kuehling's X-Ends for Terawatt Industries Precision 8mm Leadscrew"
+    title: "Android Hack-a-Bot Firmware"
     author: Terawatt Industries
-    license: GPLv3 for SCAD.  CC ShareAlike, Non-Commercial for ANT script.
-    tags: [3d printer,leadscrew,x-ends,mendelmax,mendelmax 1.5,reprap]
+    license: Apache 2.0
+    tags: [android,arduino,3d printer,robot]
 
     ## Github project parameters.
     github:
@@ -20,8 +20,8 @@ githubiverse:
         branch: master
 
     ## The names of directories where any images, source and stl files associated with the project can be found.
-    img_dir: img
-    stl_dir: dist
+    img_dir:
+    stl_dir:
     src_dir: android_hackbot_tsl235
 
     ## The headline image
